@@ -208,6 +208,7 @@ public class HttpUtils
 		{
 			e.printStackTrace();
 		}
+		
 		// 使用finally块来关闭输出流、输入流
 		finally
 		{
