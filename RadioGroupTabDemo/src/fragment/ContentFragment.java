@@ -15,7 +15,6 @@ import android.widget.TextView;
 
 /**
  * @author 刘赞
- * 2015-6-13
  */
 public final class ContentFragment extends Fragment {
     private static final String KEY_CONTENT = "TestFragment:Content";
