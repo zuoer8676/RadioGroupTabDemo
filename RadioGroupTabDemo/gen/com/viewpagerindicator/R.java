@@ -48,15 +48,16 @@ public final class R {
 		public static final int default_underline_indicator_fades = 0x7f0a0004;
 	}
 	public static final class color {
-		public static final int default_circle_indicator_fill_color = 0x7f090008;
-		public static final int default_circle_indicator_page_color = 0x7f090009;
-		public static final int default_circle_indicator_stroke_color = 0x7f09000a;
-		public static final int default_line_indicator_selected_color = 0x7f09000b;
-		public static final int default_line_indicator_unselected_color = 0x7f09000c;
-		public static final int default_title_indicator_footer_color = 0x7f09000d;
-		public static final int default_title_indicator_selected_color = 0x7f09000e;
-		public static final int default_title_indicator_text_color = 0x7f09000f;
-		public static final int default_underline_indicator_selected_color = 0x7f090010;
+		public static final int default_circle_indicator_fill_color = 0x7f09000a;
+		public static final int default_circle_indicator_page_color = 0x7f09000b;
+		public static final int default_circle_indicator_stroke_color = 0x7f09000c;
+		public static final int default_line_indicator_selected_color = 0x7f09000d;
+		public static final int default_line_indicator_unselected_color = 0x7f09000e;
+		public static final int default_title_indicator_footer_color = 0x7f09000f;
+		public static final int default_title_indicator_selected_color = 0x7f090010;
+		public static final int default_title_indicator_text_color = 0x7f090011;
+		public static final int default_underline_indicator_selected_color = 0x7f090012;
+		public static final int red = 0x7f090009;
 		public static final int vpi__background_holo_dark = 0x7f090000;
 		public static final int vpi__background_holo_light = 0x7f090001;
 		public static final int vpi__bright_foreground_disabled_holo_dark = 0x7f090004;
@@ -67,6 +68,7 @@ public final class R {
 		public static final int vpi__bright_foreground_inverse_holo_light = 0x7f090007;
 		public static final int vpi__dark_theme = 0x7f090022;
 		public static final int vpi__light_theme = 0x7f090023;
+		public static final int white = 0x7f090008;
 	}
 	public static final class dimen {
 		public static final int default_circle_indicator_radius = 0x7f070005;

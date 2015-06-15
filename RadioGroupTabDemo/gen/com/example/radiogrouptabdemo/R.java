@@ -446,28 +446,28 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int default_underline_indicator_fades=0x7f0a0004;
     }
     public static final class color {
-        public static final int Cyan=0x7f090017;
-        public static final int Magenta=0x7f09001c;
-        public static final int black=0x7f09001e;
-        public static final int blue=0x7f09001a;
-        public static final int brightblue=0x7f090019;
-        public static final int default_circle_indicator_fill_color=0x7f090008;
-        public static final int default_circle_indicator_page_color=0x7f090009;
-        public static final int default_circle_indicator_stroke_color=0x7f09000a;
-        public static final int default_line_indicator_selected_color=0x7f09000b;
-        public static final int default_line_indicator_unselected_color=0x7f09000c;
-        public static final int default_title_indicator_footer_color=0x7f09000d;
-        public static final int default_title_indicator_selected_color=0x7f09000e;
-        public static final int default_title_indicator_text_color=0x7f09000f;
-        public static final int default_underline_indicator_selected_color=0x7f090010;
-        public static final int freshgreen=0x7f090016;
-        public static final int grassgreen=0x7f090014;
-        public static final int gray=0x7f090018;
-        public static final int green=0x7f090015;
+        public static final int Cyan=0x7f090018;
+        public static final int Magenta=0x7f09001d;
+        public static final int black=0x7f09001f;
+        public static final int blue=0x7f09001b;
+        public static final int brightblue=0x7f09001a;
+        public static final int default_circle_indicator_fill_color=0x7f09000a;
+        public static final int default_circle_indicator_page_color=0x7f09000b;
+        public static final int default_circle_indicator_stroke_color=0x7f09000c;
+        public static final int default_line_indicator_selected_color=0x7f09000d;
+        public static final int default_line_indicator_unselected_color=0x7f09000e;
+        public static final int default_title_indicator_footer_color=0x7f09000f;
+        public static final int default_title_indicator_selected_color=0x7f090010;
+        public static final int default_title_indicator_text_color=0x7f090011;
+        public static final int default_underline_indicator_selected_color=0x7f090012;
+        public static final int freshgreen=0x7f090017;
+        public static final int grassgreen=0x7f090015;
+        public static final int gray=0x7f090019;
+        public static final int green=0x7f090016;
         public static final int light_blue=0x7f090020;
-        public static final int orange=0x7f090012;
-        public static final int purple=0x7f09001b;
-        public static final int red=0x7f090011;
+        public static final int orange=0x7f090013;
+        public static final int purple=0x7f09001c;
+        public static final int red=0x7f090009;
         /** HomeActivity
          */
         public static final int tab_bg=0x7f090021;
@@ -481,9 +481,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int vpi__bright_foreground_inverse_holo_light=0x7f090007;
         public static final int vpi__dark_theme=0x7f090022;
         public static final int vpi__light_theme=0x7f090023;
-        public static final int waterred=0x7f09001d;
-        public static final int white=0x7f09001f;
-        public static final int yellow=0x7f090013;
+        public static final int waterred=0x7f09001e;
+        public static final int white=0x7f090008;
+        public static final int yellow=0x7f090014;
     }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
